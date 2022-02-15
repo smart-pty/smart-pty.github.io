@@ -1,1 +1,0 @@
-# smart-pty.github.io
