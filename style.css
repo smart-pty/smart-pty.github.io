@@ -22,7 +22,9 @@ div.c {
   font-size: 40px;
 }
   
-div {
+div.video {
+    max-width: 100%
+    height: auto;
     text-align: center;
 }
 
