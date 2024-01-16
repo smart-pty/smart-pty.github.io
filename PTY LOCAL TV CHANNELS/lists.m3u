@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" tvg-id="Canal NEX TV PAN" group-title="PTY", NEXT - PAN
 http://190.149.66.90:4000/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XcrkfGh.png" tvg-id="Canal TVMAX PAN" group-title="PTY", TV  Max - PAN
@@ -9,12 +9,32 @@ http://167.250.222.35:16000/play/a027/index.m3u8
 http://167.250.222.35:16000/play/a028/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzYPhdZ.png" tvg-id="RPC Canal 4 - PAN" tvg-shift="-4"  group-title="PTY", Canal 4 - PAN
 http://167.250.222.35:16000/play/a06t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8JnPQ1K.png" group-title="PTY", Canal OYE TV
-https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-QUUNIdP8AYELU9Gj7eJcvPwMtjXV22yPyoYtsqNi0gI)/cloud/3/x8nlwwo/s/live-0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JnPQ1K.png" group-title="PTY", Canal OYE TV PAN
+https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-VlD6g_WrLa6K8UQzqM0gBjezcgtSf4AilImlae7EpI0)/cloud/3/x8odgha/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" tvg-id="MASTV - PAN" tvg-shift="-4"  group-title="PTY", MASTV - PAN
 http://167.250.222.35:16000/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-logo-sticky.png" tvg-id="SerTV - PAN" tvg-shift="-4"  group-title="PTY", SerTV - PAN
-https://stream-03.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpiVeXYa8ZXSKT960MeiKLbLpCv6PiCMK6aAe78AVHqqL)/dm/3/x81cvsk/s/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSppK21c1Q-HtrhIUp7xClUFh6JRPHCgBy8b08-rcraOol)/dm/3/x81cvsk/s/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/4b9f-07b4-9a57-46e4/2/logoHover.jpg" tvg-id="Telemetro Radio - PAN" tvg-shift="-4"  group-title="PTY", Telemetro Radio - PAN
+https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-ZxaVNcsTOsOtY3vm8Wy9EB10H1zlkZ9MQNm-aUF-keB)/cloud/3/x8oe642/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/b3f8-b568-af70-467c/2/logoHover.jpg" tvg-id="RPC Radio - PAN" tvg-shift="-4"  group-title="PTY", RPC Radio - PAN
+https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-bVb57fUUJix1MI4x34jw60g4xq-YvxtsuwNazfk7Jp6)/cloud/3/x8oe65h/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/c1f6-f971-d895-4540/2/logoHover.jpg" tvg-id="Caliente Radio - PAN" tvg-shift="-4"  group-title="PTY", Caliente Radio - PAN
+https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-TTTRAoDAA1LJ2C0vxC7iub5Gkp8wGD8btvyGtdKY4u2)/cloud/3/x8oe65z/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634660075655.png" tvg-id="Fabulosa Stereo - PAN" tvg-shift="-4"  group-title="PTY", Fabulosa Stereo - PAN
+https://www.streaming507.net:19360/videofabulosa/480p.m3u8
+#EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634763785376.png" tvg-id="TropiQ - PAN" tvg-shift="-4"  group-title="PTY", TropiQ - PAN
+https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
+#EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634764123616.png" tvg-id="Radio Ancon - PAN" tvg-shift="-4"  group-title="PTY", Radio Ancon - PAN
+https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+#EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/5b749eab2cdc3a9d7757d2c5/channel/1671297932637.png" tvg-id="TVN Radio - PAN" tvg-shift="-4"  group-title="PTY", TVN Radio - PAN
+https://streannlivetvn.cachefly.net/Protected/sp=1;dirmatch=true/f006562cf17dd9a196f305d1980a7dc146e34edb33286d9cb171c787f8077582/tvnradioaudio/tvnradioaudio_abr/tvnradioaudio/tvnradioaudio_1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-SQLOGOBLAN.png" tvg-id="SuperQ - PAN" tvg-shift="-4"  group-title="PTY", SuperQ - PAN
+https://vcp8.myplaytv.com:1936/superq/superq/chunklist_w894757323.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/stereo-89-panama.png" tvg-id="Stereo 89 - PAN" tvg-shift="-4"  group-title="PTY", Stereo 89 - PAN
+https://streannlivestereo89.cachefly.net/Protected/sp=1;dirmatch=true/4a5ab5c9ab4a225a914fd25d763757d8f38919626567df9af35b2c864429b64b/stereo89/stereo89/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.alsolnet.com/stream/radioritmotv/load.jpg" tvg-id="Radio Ritmo - PAN" tvg-shift="-4"  group-title="PTY", Radio Ritmo - PAN
+http://streamyes.alsolnet.com/radioritmotv/live/chunklist_w797689540.m3u8
 #EXTINF:-1 tvg-logo="https://hispaniaweb.tv/wp-content/uploads/2023/04/cropped-cropped-hispania-logo-2.jpg" tvg-id="Hispania TV - PAN" tvg-shift="-4"  group-title="PTY", Hispania TV - PAN
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/10/teletica.png", Canal 7 HD CR tvg-id="Canal7.cr" group-title="Costa Rica"
