@@ -10,19 +10,19 @@ http://167.250.222.35:16000/play/a028/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzYPhdZ.png" tvg-id="RPC TV - PAN" tvg-shift="-4"  group-title="PTY", RPC TV - PAN
 http://167.250.222.35:16000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8JnPQ1K.png" group-title="PTY", OYE TV - PAN
-https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UJvl_ELAPP3FIzsHmryrs9XKtG8ijKWk_5OhXwCoPXV)/cloud/3/x8odgha/s/live-1.m3u8
+https://live-c2.cf.dmcdn.net/sec2(0iGVf-SshEBGxxhLjgeKZtKOY6E0-adTWDG1jBbezTqsmJz-lEohc_n5u1kflqkrx3n1wgKO5t-4AyomicpsW5lMQBsurOPEvKmOI8T9LxE)/cloud/3/x8odgha/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" tvg-id="MASTV - PAN" tvg-shift="-4"  group-title="PTY", MASTV - PAN
 http://167.250.222.35:16000/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-logo-sticky.png" tvg-id="SerTV - PAN" tvg-shift="-4"  group-title="PTY", SerTV - PAN
-https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpqzWp29pImjRguans6oaAMSj5-J4ttJwv-LsWmaDbYP5)/dm/3/x81cvsk/s/live-2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/01db50_c6f6e21137034da7bb873c587179e5ec~mv2.png/v1/fill/w_130,h_138,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/01db50_c6f6e21137034da7bb873c587179e5ec~mv2.png" tvg-id="BTV - PAN" tvg-shift="-4"  group-title="PTY", BTV - PAN
-https://youtu.be/3QVDufAAKRw
+https://stream-02.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpgiTYaMhQhRAo1Axu2J3pb2idq7zTPMK6DC8z6VdBCcb)/dm/3/x81cvsk/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/97wSTWDrQ20XDx0h9gDs7Ref3aaFV0h3Hpr7TU0m.png" tvg-id="BTV - PAN" tvg-shift="-4" group-title="PTY", BTV - PAN
+https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1266770779.m3u8
 #EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/4b9f-07b4-9a57-46e4/2/logoHover.jpg" tvg-id="Telemetro Radio - PAN" tvg-shift="-4"  group-title="PTY", Telemetro Radio - PAN
-https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-eNTX7EbfBqhU4Gd_Q8h6nB7ytc0YIiTGltXEjzQAbZq)/cloud/3/x8oe642/s/live-2.m3u8
+https://live-b2.cf.dmcdn.net/sec2(tafeS3xJ51p18u48i_FaSgP7_VB45i8kg4jDWGjIB3pJA1JqIxY8UYyIKqixxxxCDFGHIYl0kYpiDncufR8qiXiUBCOqE93liXNf8W-OMNc)/cloud/3/x8oe642/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/b3f8-b568-af70-467c/2/logoHover.jpg" tvg-id="RPC Radio - PAN" tvg-shift="-4"  group-title="PTY", RPC Radio - PAN
-https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-YN8mSqBbZrfROXkq3YH8387PyKK77LubMGmQNEt_fQn)/cloud/3/x8oe65h/s/live-1.m3u8
+https://live-b2.cf.dmcdn.net/sec2(Y9tCpr9G8aN5CIck0p26RWSSwM11kSepJGe_Pr6BFlGii6W9mRX8cA4aA7AVM7wEwXxAYPe-XkgTWFn9oRStTebfJN8dSKyD3jwrlWiN7cA)/cloud/3/x8oe65h/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/c1f6-f971-d895-4540/2/logoHover.jpg" tvg-id="Caliente Radio - PAN" tvg-shift="-4"  group-title="PTY", Caliente Radio - PAN
-https://stream-04.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-XC21m7nACTdIKBf7o-9PImDbWxEB_5Um8M1PV6ihdPv)/cloud/3/x8oe65z/s/live-2.m3u8
+https://live-b2.cf.dmcdn.net/sec2(QRCbv4t6jzdjF4C39Ga80GG_R0lFpJU1cuHiwKafHa45DRIuStHUb7zoxM-ktlLiD_fLZ2JBCyWhhzaHOIAZZGF5cGiMY0XK8ITuLvgd7hg)/cloud/3/x8oe65z/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634660075655.png" tvg-id="Fabulosa Stereo - PAN" tvg-shift="-4"  group-title="PTY", Fabulosa Stereo - PAN
 https://www.streaming507.net:19360/videofabulosa/480p.m3u8
 #EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634763785376.png" tvg-id="TropiQ - PAN" tvg-shift="-4"  group-title="PTY", TropiQ - PAN
@@ -43,6 +43,8 @@ https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-logo="https://hispaniaweb.tv/wp-content/uploads/2023/04/cropped-cropped-hispania-logo-2.jpg" tvg-id="Hispania TV - PAN" tvg-shift="-4"  group-title="PTY", Hispania TV - PAN
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Ble4FXCZmslovCTBqPDvrGrldNDxwMkfTePIgEoj.png" tvg-id="PanamaBeach - PAN" tvg-shift="-4"  group-title="USA", Panama Beach - USA
+https://5ed7b8fd7bf40.streamlock.net:444/sharkys/sharkysbeachcam/chunklist_w1653747735.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/10/teletica.png" tvg-id="Canal7.cr" group-title="Costa Rica",Teletica Canal 7
 http://190.149.66.90:4000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2XI5OC6MQZFXXBDGMRRDOZSL2Q.jpg" tvg-id="Canal1.cr" group-title="Costa Rica",Canal 1
@@ -73,6 +75,10 @@ https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" tvg-id="NASATVMedia.us" group-title="USA",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Y0NQocKYo8MkS4rYc15yAtNfuz26w5YpNxqO761W.png" tvg-id="Real" group-title="Sports", Real
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/OkT2w6RgEJxvuhcdld6wex8AbOiC5Ah2nzWer8SJ.png" tvg-id="DEPORTV" group-title="Sports", DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w259861031.m3u8
 
 #EXTINF:-1 tvg-id="Anaylos7.es" tvg-logo="https://i.imgur.com/X5g6gXS.png" group-title="Undefined",Pluto TV Ana y los 7 (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
@@ -98,6 +104,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c0671
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Music",POP World TV (720p)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-id="PequeRadioTV" tvg-logo="https://meganettv.fun/storage/channel-logos/0B4kqwqm0uPtC5cUZQ4TijnS9na4zJow2nvc3NoC.png" group-title="Kids",Peque Radio TV 
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="MagicKids" tvg-logo="https://meganettv.fun/storage/channel-logos/Moy3tTzOeCPDPGVMdMFU64qRocSPWbsHBupbvg36.jpg" group-title="Kids",Magic Kids 
+https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
@@ -142,7 +152,7 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids (480p) [Not 24/7]
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV (480p)
-https://mediacp.us:8081/8002/index.m3u8
+https://rpn3.bozztv.com/ssh101/ssh101/musica/chunks.m3u8
 #EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="Animation",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
@@ -187,10 +197,40 @@ https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
 https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTINF:-1 tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Undefined",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="General",Venevisión Internacional (720p)
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Venezuela",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/4YXRBG3rkVw7S92JiFn34ZKLPwabiF0BJbCrkFgL.png" tvg-id="PanavisionTV" group-title="Music",Panavision TV
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w1637741296.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/IOUDS5Af71F3TmTPnAaARblL2fLuEFm7qjDSa3Ro.png" tvg-id="Vivamusic" group-title="Music",Viva music
+https://ssh101.bozztv.com/ssh101/vivarussia/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Gbi5Z9fgukTib8vrlNRIaioAlt9UBkLagMKzscrk.png" tvg-id="OxigenoNetwork" group-title="Music",Oxigeno Network
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1591746168.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DR5bsovNMqrNLiG3J839cXETQC27BEscf8UGxw70.jpg" tvg-id="CantinaTV" group-title="Music",Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w1592992184.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/n4eGND7ec3DFa1esJ25f5tMxgyT6yOhA2B4sf1iX.png" tvg-id="Italianissimo" group-title="Music",Italianissimo
+https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w897910796.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/zJTkPGtHyEdpJQ542fydrSoBk86nuafCM2aq2ElY.png" tvg-id="CineS" group-title="Movies",Cine S
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/6F6NbA6oncvQpvmfKp6elFugvfs4Dy2vNYCLSYGP.png" tvg-id="CineAR" group-title="Movies",Cine AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w637865763.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/bHMaa9wwdEvwJEnaQSPHNlhnYi344CLDvesXn9OZ.png" tvg-id="RetroPlus" group-title="Movies",Retro Plus
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1906870695.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/bHMaa9wwdEvwJEnaQSPHNlhnYi344CLDvesXn9OZ.png" tvg-id="Gplus" group-title="Movies",Gplus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_webvtt.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/bHMaa9wwdEvwJEnaQSPHNlhnYi344CLDvesXn9OZ.png" tvg-id="Megaseries" group-title="Movies",Megaseries
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/JZQz57QHR28ZoeF0dXYtXvwKZbe8PzjoNaEzWh1k.png" tvg-id="CineSureño" group-title="Movies",Cine Sureño
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/4ipD8TtbWUwj6BwPNQKm8DqlaMpI5ubuoDzSSSXz.png" tvg-id="MDATV" group-title="Movies",Cine Sureño
+https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1145887723.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/22gMX1eClzUXKX6qDaSvjXpBOutwXzL2eMgqi9JY.png" tvg-id="GRJNGO" group-title="Movies",GRJNGO
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DejqYTdqbA4q6aIKoykGjcL8Oa9Dnb3BOp9I4R57.png" tvg-id="PlanetaTV" group-title="Movies",Planeta TV
+https://scl.edge.grupoz.cl/movie/live/chunklist_w423360195.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/ttKV7L4rrWU3G3bUOvKo8cxkQzIfTCqpz1ivQRDV.png" tvg-id="Megadeporte" group-title="Sports",Megadeporte
+https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/chunklist_w395847117.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/genteopa.com/wp-content/uploads/2019/06/64b141fad206bc88a035f717_Logo-menu.png?resize=117%2C57&ssl=1" tvg-id="OPA.cr" group-title="Costa Rica",¡OPA! (1080p)  
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
@@ -289,20 +329,19 @@ https://video20.klm99.com:3401/live/megahitslive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOfihUovmi0rtlE3_YGLIzArNdyM8Hsm7B6qmegz7XCBwOhPTEIUnto_28g&s" tvg-id="RTVChirrigo.cr" group-title="Costa Rica",RTV Chirripo
 https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 #EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" tvg-id="13CostaRicaTV.cr" group-title="Costa Rica",13 Costa Rica TV
-https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Ze4X9Otq0nO7YDVHLQPa-tsQsCeFMFLj6kklFHb9XGLm)/dm/3/x7vh8g3/d/live-2.m3u8
+https://250weu.bozztv.com/ssh101/ssh101/sinart13/chunks.m3u8?nimblesessionid=164130774
 #EXTINF:-1 tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png" tvg-id="TVSantaCruz.cr" group-title="Costa Rica",TV Santa Cruz
 https://rtmp.info/tvsantacruz/envivo/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8IuHUgpOZTx2wXuWiUl6Ng8LfgBvZQtPAHa7TX9xLRrLIDgA6x4daS0KGg&s" tvg-id="Trivision36.cr" group-title="Costa Rica",Trivision 36
 https://rtmp.info/trivision36/envivo/chunklist_w658380199.m3u8
 #EXTINF:-1 tvg-logo="https://www.retroxtv.com/diminup/2024/01/RTX-FTE-300x300.png" tvg-id="RetroxTV.cr" group-title="Costa Rica",Retrox TV
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
-#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5LVxsUeJoEk6qIyAct4JcpyiroUt3twaF6h7udsB.png" tvg-id="CaribeTVCRTV.cr" group-title="Costa Rica",Caribe TV
-CR
-https://250weu.bozztv.com/ssh101/ssh101/sinart/chunks.m3u8?nimblesessionid=160330581
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5LVxsUeJoEk6qIyAct4JcpyiroUt3twaF6h7udsB.png" tvg-id="CaribeTVCRTV.cr" group-title="Costa Rica",Caribe TV CR
+https://250weu.bozztv.com/ssh101/ssh101/sinart/chunks.m3u8?nimblesessionid=164128174
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Fg8XXH5P1j0a2RjpkWFmaAR4X50xrRKVrQ4O5LFM.png" tvg-id="IQChannel.cr" group-title="Costa Rica",IQ Channel
 https://rtmp.info/iqtv/envivo/chunklist_w1212842158.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/jIoSSHHLjz5uIbR8D3aQ3vtite6e4AUjdXwXAL5X.png" tvg-id="MasCiclismoTV.cr" group-title="Costa Rica",Mas Ciclismo TV
-https://ssh101.bozztv.com/ssh101/masciclismo/chunks.m3u8
+https://video20.klm99.com:3880/live/megadeporteslive.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1yeVCQoEYPNMrJVCeegIi3nyrstnkYnymfvL0ZSY.jpg" tvg-id="ColosalCabina.cr" group-title="Costa Rica",Colosal Cabina
 https://5d16127744872.streamlock.net/canal3/canal3/chunklist_w357851300.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/IVsndRtX6zoeghtzY1OL5DNMEbbw4CaA35yFVGbS.png" tvg-id="SuperRadioTV.cr" group-title="Costa Rica",Super Radio TV
