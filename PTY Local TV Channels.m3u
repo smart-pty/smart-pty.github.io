@@ -1,0 +1,567 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQBd052.png" tvg-id="Canal NEX TV PAN" group-title="PTY", NEXT - PAN
+http://190.149.66.90:4000/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcrkfGh.png" tvg-id="Canal TVMAX PAN" group-title="PTY", TV Max - PAN
+http://190.149.66.90:4000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vJJrGgV.png" tvg-id="Telemetro - PAN" tvg-shift="-4"  group-title="PTY",Telemetro - PAN
+http://167.250.222.35:16000/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGeHwxd.png" tvg-id="TVN - PAN" tvg-shift="-4"  group-title="PTY", TVN - PAN
+http://167.250.222.35:16000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DzYPhdZ.png" tvg-id="RPC TV - PAN" tvg-shift="-4"  group-title="PTY", RPC TV - PAN
+http://167.250.222.35:16000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8JnPQ1K.png" group-title="PTY", OYE TV - PAN
+https://live-c2.cf.dmcdn.net/sec2(OtU2zuQIVd7hgk8NWZduvNhNimBW0bm19WNh35yrj39zWhmn7k7w14gAWGz6a4tg-ZJASj-OUrA2ERH_EbOKq4x1Ks_-rTDXMOkICASkw0Y)/cloud/3/x8odgha/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" tvg-id="MASTV - PAN" tvg-shift="-4"  group-title="PTY", MASTV - PAN
+http://167.250.222.35:16000/play/a051/index.m3u8
+#EXTINF:-1 tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-logo-sticky.png" tvg-id="SerTV - PAN" tvg-shift="-4"  group-title="PTY", SerTV - PAN
+https://stream-01.nyc.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpiHbq2tS6kcY-gEkX-S_CGGUg0WFfApDc0farjBmTP4l)/dm/3/x81cvsk/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/97wSTWDrQ20XDx0h9gDs7Ref3aaFV0h3Hpr7TU0m.png" tvg-id="BTV - PAN" tvg-shift="-4" group-title="PTY", BTV - PAN
+https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1266770779.m3u8
+#EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/4b9f-07b4-9a57-46e4/2/logoHover.jpg" tvg-id="Telemetro Radio - PAN" tvg-shift="-4"  group-title="PTY", Telemetro Radio - PAN
+https://live-c2.cf.dmcdn.net/sec2(veXl9pRnjI2PAo7SETTfZOCPQHheBPnPS6nyaf_RNzFety-RVdA2bLAF2TOAUqw7Dv2UApqNM51Ud3PfhLRkjw1b5Nd1kGuUxP1S4X3sRn8)/cloud/3/x8oe642/s/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/b3f8-b568-af70-467c/2/logoHover.jpg" tvg-id="RPC Radio - PAN" tvg-shift="-4"  group-title="PTY", RPC Radio - PAN
+https://live-c2.cf.dmcdn.net/sec2(bP9dGCRdd0_JrNY7pnRCUVFlg5TZIkRElzyQqabT9yTdTdRz8g2Xeom7ggO6Mxpd7g57Jt30egFo2atvll79YFt_WV4d-jkVD1_OxRO30Qs)/cloud/3/x8oe65h/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/c1f6-f971-d895-4540/2/logoHover.jpg" tvg-id="Caliente Radio - PAN" tvg-shift="-4"  group-title="PTY", Caliente Radio - PAN
+https://live-c2.cf.dmcdn.net/sec2(hBDAZANfHcVuQgkfVRmDIDVbPeAdJObaCbx-NFSmVN3QatZiSk69qr8fwe6V3weJJhCOHGh4obKgKz9aCWB_LtoTYWPxti62ChSPDCpFEsM)/cloud/3/x8oe65z/s/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634660075655.png" tvg-id="Fabulosa Stereo - PAN" tvg-shift="-4"  group-title="PTY", Fabulosa Stereo - PAN
+https://www.streaming507.net:19360/videofabulosa/480p.m3u8
+#EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634763785376.png" tvg-id="TropiQ - PAN" tvg-shift="-4"  group-title="PTY", TropiQ - PAN
+https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
+#EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634764123616.png" tvg-id="Radio Ancon - PAN" tvg-shift="-4"  group-title="PTY", Radio Ancon - PAN
+https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
+#EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/5b749eab2cdc3a9d7757d2c5/channel/1671297932637.png" tvg-id="TVN Radio - PAN" tvg-shift="-4"  group-title="PTY", TVN Radio - PAN
+https://streannlivetvn.cachefly.net/Protected/sp=1;dirmatch=true/f006562cf17dd9a196f305d1980a7dc146e34edb33286d9cb171c787f8077582/tvnradioaudio/tvnradioaudio_abr/tvnradioaudio/tvnradioaudio_1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://superqpanama.net/superqdigital/wp-content/uploads/2020/09/cropped-SQLOGOBLAN.png" tvg-id="SuperQ - PAN" tvg-shift="-4"  group-title="PTY", SuperQ - PAN
+https://vcp8.myplaytv.com:1936/superq/superq/chunklist_w894757323.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-pa/stereo-89-panama.png" tvg-id="Stereo 89 - PAN" tvg-shift="-4"  group-title="PTY", Stereo 89 - PAN
+https://streannlivestereo89.cachefly.net/Protected/sp=1;dirmatch=true/4a5ab5c9ab4a225a914fd25d763757d8f38919626567df9af35b2c864429b64b/stereo89/stereo89/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.alsolnet.com/stream/radioritmotv/load.jpg" tvg-id="Radio Ritmo - PAN" tvg-shift="-4"  group-title="PTY", Radio Ritmo - PAN
+http://streamyes.alsolnet.com/radioritmotv/live/chunklist_w797689540.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZIBs8l.png" tvg-id="Planet 100.9 FM Radio - PAN" tvg-shift="-4"  group-title="PTY", Planet 100.9 FM Radio - PAN
+https://streamlov.alsolnet.com/planet1009fm/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k8U0e0b.png" tvg-id="Dreiko TV - PAN" tvg-shift="-4"  group-title="PTY", Dreiko TV - PAN
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-logo="https://hispaniaweb.tv/wp-content/uploads/2023/04/cropped-cropped-hispania-logo-2.jpg" tvg-id="Hispania TV - PAN" tvg-shift="-4"  group-title="PTY", Hispania TV - PAN
+https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Ble4FXCZmslovCTBqPDvrGrldNDxwMkfTePIgEoj.png" tvg-id="PanamaBeach - PAN" tvg-shift="-4"  group-title="USA", Panama Beach - USA
+https://5ed7b8fd7bf40.streamlock.net:444/sharkys/sharkysbeachcam/chunklist_w1653747735.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/10/teletica.png" tvg-id="Canal7.cr" group-title="Costa Rica",Teletica Canal 7
+http://190.149.66.90:4000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2XI5OC6MQZFXXBDGMRRDOZSL2Q.jpg" tvg-id="Canal1.cr" group-title="Costa Rica",Canal 1
+https://video20.klm99.com:3993/live/canal1crlive.m3u8
+#EXTINF:-1 tvg-name="Canal 8" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5efe501c21d05a0722152f6d.png" tvg-id="Canal8.cr" group-title="Costa Rica",Canal 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-name="88 Stereo" tvg-logo="http://www.88stereo.com/wp-content/uploads/2017/05/88Stereo-logoweb.png" tvg-id="88stereo.cr" group-title="Costa Rica",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160301006787/es/377316/2/Telemundo_Logo.jpg" group-title="News", Telemundo
+http://190.149.66.90:4000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160301006787/es/377316/2/Telemundo_Logo.jpg" group-title="News", Telemundo HD
+http://190.149.66.90:4000/play/a01n/index.m3u8
+#EXTINF:-1 tvg-name="RT Español " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RTenEspanol.ru" group-title="News",RT Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-name="Euronews Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsSpanish.fr" group-title="News",Euronews Español
+https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://smart-pty.github.io/Test Fold/sports.png" group-title="Sports", Tigo Sports HD
+http://190.149.66.90:4000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV (576p) [Not 24/7]
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" tvg-id="Globovision.ve" group-title="Venezuela",Globovisión
+https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8
+#EXTINF:-1 tvg-name="Vale TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" tvg-id="ValeTV.ve" group-title="Venezuela",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/rmyfoOI.png" tvg-id="NASATVPublic.us" group-title="USA",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" tvg-id="NASATVMedia.us" group-title="USA",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Y0NQocKYo8MkS4rYc15yAtNfuz26w5YpNxqO761W.png" tvg-id="Real" group-title="Sports", Real
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/OkT2w6RgEJxvuhcdld6wex8AbOiC5Ah2nzWer8SJ.png" tvg-id="DEPORTV" group-title="Sports", DEPORTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist_w259861031.m3u8
+
+#EXTINF:-1 tvg-id="Anaylos7.es" tvg-logo="https://i.imgur.com/X5g6gXS.png" group-title="Undefined",Pluto TV Ana y los 7 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAnimakids.es" tvg-logo="https://i.imgur.com/MSGZ3S9.png" group-title="Kids",Pluto TV Animakids (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAnimales.es" tvg-logo="https://i.imgur.com/P2jEmG1.png" group-title="Entertainment",Pluto TV Animales (288p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.es" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Movies",Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineClasico.es" tvg-logo="https://i.imgur.com/hCA5BRr.png" group-title="Movies",Pluto TV Cine Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCocina.es" tvg-logo="https://i.imgur.com/LRtfQla.png" group-title="Cooking",Pluto TV Cocina (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="https://smart-pty.github.io/Test Fold/pluco.JPG" group-title="Undefined",Pluto TV Comedia (Made in Spain) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVMTVOriginalsSpain.us" tvg-logo="https://smart-pty.github.io/Test Fold/plum.JPG" group-title="Undefined",Pluto TV MTV Originals (Spain) (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVTeenStars.es" tvg-logo="https://i.imgur.com/f0FXTXJ.png" group-title="Kids",Pluto TV Teen Stars (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTelenovelas.es" tvg-logo="https://i.imgur.com/GrtNJki.png" group-title="Series",Pluto TV Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="https://i.imgur.com/gQcuJSE.png" group-title="Kids",Pluto TV Toons Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="POPWorldTV.es" tvg-logo="https://i.imgur.com/LQB6G3s.jpg" group-title="Music",POP World TV (720p)
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-id="PequeRadioTV" tvg-logo="https://meganettv.fun/storage/channel-logos/0B4kqwqm0uPtC5cUZQ4TijnS9na4zJow2nvc3NoC.png" group-title="Kids",Peque Radio TV 
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="MagicKids" tvg-logo="https://meganettv.fun/storage/channel-logos/Moy3tTzOeCPDPGVMdMFU64qRocSPWbsHBupbvg36.jpg" group-title="Kids",Magic Kids 
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="BblackCaribbean.fr" tvg-logo="https://i.imgur.com/GyZQCjq.png" group-title="Undefined",Bblack! Caribbean
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackcaribbean/manifest.m3u8
+#EXTINF:-1 tvg-id="BblackClassik.fr" tvg-logo="https://i.imgur.com/PDCDy0b.png" group-title="Music",Bblack! Classik
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackclassik/manifest.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network FreeLive Latam 2 (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/512px-Cartoon_Network_HD_logo.svg.png" group-title="Animation;Kids",Cartoon Network FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="General",CGTN Español (576p)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://i.imgur.com/C0VEHXU.png" group-title="Kids",Discovery Kids FreeLive Latam (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Animation",EnerGeek (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-logo="https://i.imgur.com/euaoN1A.png" group-title="Music",EnerGeek Radio (936p)
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Animation",eSports Max (480p) [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Animation",Fanpop TV (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="News",France 24 Español (1080p)
+https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-logo="https://i.imgur.com/YBaxWQC.png" group-title="General",Galicia TV América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",Hispan TV (720p)
+https://live3.presstv.ir/hispantv/index.m3u8
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Series",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="General",Las Estrellas Latin America (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Animation",LatinoKids (480p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Music",Memorias TV (480p)
+https://rpn3.bozztv.com/ssh101/ssh101/musica/chunks.m3u8
+#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="Animation",Pandamax Channel (1080p)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="PrensaLatinaTV.cu" tvg-logo="https://i.imgur.com/jbm2S9O.jpg" group-title="News",Prensa Latina TV (1080p)
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.us" tvg-logo="https://i.imgur.com/Y7E5OTy.png" group-title="Undefined",Radio y Televisión Martí (720p)
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entertainment",RCN Xtra (1080p)
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SEOTV1FHD.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="General",SEO TV 1 (1080p)
+https://live.seo.tv.bo/live/SEO-1.m3u8
+#EXTINF:-1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="Kids",SEO TV 2 Kids (1080p)
+https://live.seo.tv.bo/live/SEO-2.m3u8
+#EXTINF:-1 tvg-id="SEOTV3Novelas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Series",SEO TV 3 Novelas (1080p)
+https://live.seo.tv.bo/live/SEO-3.m3u8
+#EXTINF:-1 tvg-id="SEOTV4Peliculas.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Movies",SEO TV 4 Películas (1080p)
+https://live.seo.tv.bo/live/SEO-4.m3u8
+#EXTINF:-1 tvg-id="SEOTV5Deportes.bo" tvg-logo="https://i.imgur.com/N56B7si.png" group-title="Sports",SEO TV 5 Deportes (1080p) [Not 24/7]
+https://live.seo.tv.bo/live/SEO-5.m3u8
+#EXTINF:-1 tvg-id="SEOTV6.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Entertainment",SEO TV 6 (1080p)
+https://live.seo.tv.bo/live/SEO-6.m3u8
+#EXTINF:-1 tvg-id="SEOTV7.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Comedy",SEO TV 7 (1080p)
+https://live.seo.tv.bo/live/SEO-7.m3u8
+#EXTINF:-1 tvg-id="SomosCulturaTV.pa" tvg-logo="https://i.imgur.com/kWR3END.png" group-title="Culture",Somos Cultura TV (720p)
+https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",Tevex (720p) [Not 24/7]
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonCumbiaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Music",Tropical Moon Cumbia TV (720p)
+https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonEventosTV.pa" tvg-logo="https://i.imgur.com/RklPmml.png" group-title="General",Tropical Moon Eventos TV (720p)
+https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonSalsaTV.pa" tvg-logo="https://i.imgur.com/jL1kLyS.png" group-title="Music",Tropical Moon Salsa TV (720p)
+https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
+#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa" tvg-logo="https://i.imgur.com/WcM7BP5.png" group-title="Music",Tropical Moon Urban TV (720p)
+https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
+#EXTINF:-1 tvg-id="TVDaja.do" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Undefined",TV Daja (1080p)
+https://rdn.essastream.com:3388/live/dajatvlive.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Undefined",UCL (720p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve" tvg-logo="https://i.imgur.com/vtGED07.jpg" group-title="Venezuela",Venevisión Internacional (720p)
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News",VPItv (1080p)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/4YXRBG3rkVw7S92JiFn34ZKLPwabiF0BJbCrkFgL.png" tvg-id="PanavisionTV" group-title="Music",Panavision TV
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w1637741296.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/IOUDS5Af71F3TmTPnAaARblL2fLuEFm7qjDSa3Ro.png" tvg-id="Vivamusic" group-title="Music",Viva music
+https://ssh101.bozztv.com/ssh101/vivarussia/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Gbi5Z9fgukTib8vrlNRIaioAlt9UBkLagMKzscrk.png" tvg-id="OxigenoNetwork" group-title="Music",Oxigeno Network
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w1591746168.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DR5bsovNMqrNLiG3J839cXETQC27BEscf8UGxw70.jpg" tvg-id="CantinaTV" group-title="Music",Cantina TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w1592992184.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/n4eGND7ec3DFa1esJ25f5tMxgyT6yOhA2B4sf1iX.png" tvg-id="Italianissimo" group-title="Music",Italianissimo
+https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w897910796.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/zJTkPGtHyEdpJQ542fydrSoBk86nuafCM2aq2ElY.png" tvg-id="CineS" group-title="Movies",Cine S
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/6F6NbA6oncvQpvmfKp6elFugvfs4Dy2vNYCLSYGP.png" tvg-id="CineAR" group-title="Movies",Cine AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w637865763.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" tvg-id="RetroPlus" group-title="Movies",Retro Plus
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1906870695.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/bHMaa9wwdEvwJEnaQSPHNlhnYi344CLDvesXn9OZ.png" tvg-id="Gplus" group-title="Movies",Gplus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist_webvtt.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/bHMaa9wwdEvwJEnaQSPHNlhnYi344CLDvesXn9OZ.png" tvg-id="Megaseries" group-title="Movies",Megaseries
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/JZQz57QHR28ZoeF0dXYtXvwKZbe8PzjoNaEzWh1k.png" tvg-id="CineSureño" group-title="Movies",Cine Sureño
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/4ipD8TtbWUwj6BwPNQKm8DqlaMpI5ubuoDzSSSXz.png" tvg-id="MDATV" group-title="Movies",Cine Sureño
+https://vcp.myplaytv.com/mdatv/mdatv/chunklist_w1145887723.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/22gMX1eClzUXKX6qDaSvjXpBOutwXzL2eMgqi9JY.png" tvg-id="GRJNGO" group-title="Movies",GRJNGO
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/DejqYTdqbA4q6aIKoykGjcL8Oa9Dnb3BOp9I4R57.png" tvg-id="PlanetaTV" group-title="Movies",Planeta TV
+https://scl.edge.grupoz.cl/movie/live/chunklist_w423360195.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/ttKV7L4rrWU3G3bUOvKo8cxkQzIfTCqpz1ivQRDV.png" tvg-id="Megadeporte" group-title="Sports",Megadeporte
+https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/chunklist_w395847117.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/genteopa.com/wp-content/uploads/2019/06/64b141fad206bc88a035f717_Logo-menu.png?resize=117%2C57&ssl=1" tvg-id="OPA.cr" group-title="Costa Rica",¡OPA! (1080p)  
+https://opa.usastreams.com:3101/live/canalopalive.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPAb1lSl1zR3xGcOR1_yFA_HI91-wG6PL0THrAl1F_7eA7jP3BL_umLqIevso128s2Thgu1C1W0hCovDJhlNsQNR-anyp5YBKkJsUx38r9BI9SpTKKDgfebmHJRbS4rv8et7YBbyYo8k/s1600/anexioncanal36envivo.png" tvg-id="AnexionTV.cr" group-title="Costa Rica",Anexión TV Canal 36 (1080p)  
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1233_Canal_1.png" tvg-id="Canal1.cr" group-title="Costa Rica",Canal 1 (720p) 
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1061_Canal_2.png" tvg-id="Canal2.cr" group-title="Costa Rica",Canal 2 (576p) [Not 24/7]  
+https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/D5PZe3hgGYMTjZo39qKnrz147I6MIa1WVs41YMCJZDylwAVcMTlQmyR_ZgxIiCK5uIUH_ypA=s176-c-k-c0x00ffffff-no-rj" tvg-id="Canal3KMKTV.cr" group-title="Costa Rica",Canal 3 KMK TV (720p)
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2023/08/signal_canal_4-2.png" tvg-id="Canal4.cr" group-title="Costa Rica" ,Canal 4 (720p) [Not 24/7]  
+https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1059_Canal_6.png" tvg-id="Canal6.cr" group-title="Costa Rica",Canal 6 (720p) [Not 24/7] 
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1060_Canal_11.png" tvg-id="Canal11.cr" group-title="Costa Rica",Canal 11 (720p) [Not 24/7] 
+https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1050_TVN_14.png" tvg-id="TVN14.cr" group-title="Costa Rica",Canal 14 San Carlos (720p) [Not 24/7] 
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/5BYr8FaRq_hb6-0CkYnFmyLIn7b223Zgpizoq99BK-10e7XVjAyF9dvVflzFZmRdBrs=w240-h480-rw" tvg-id="Canal17TVNosara.cr" group-title="Costa Rica",Canal 17 TV Nosara (720p) 
+https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/aaIWPmTt0vrZI0aEUCzY3gi6GxGEc1gnmqZOv46q.png" tvg-id="ColosalTV.cr" group-title="Costa Rica",Colosal TV (720p) [Not 24/7]
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/JhSxt0qD68vib4Jlx89vUsLexq9lE2xHOLA4Y67t.png" tvg-id="ComunicacionesJimenez.cr" group-title="Costa Rica",Comunicaciones Jiménez (720p) [Not 24/7] 
+https://rpn3.bozztv.com/ssh101/ssh101/comunicaciones/chunks.m3u8?nimblesessionid=160358969
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1388_Coto_Brus_TV.png" tvg-id="CotoBrusTV.cr" group-title="Costa Rica",Coto Brus TV (720p) 
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/162_Extrema_TV.png" tvg-id="ExtremaTV.cr" group-title="Costa Rica",Extrema TV (720p) 
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://garabitotv.com/wp-content/uploads/2023/01/cropped-293192484_102967872491257_1753215928675182930_n-2.jpg" tvg-id="GarabitoTV.cr" group-title="Costa Rica",Garabito TV (720p) 
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://artv.watch/cdn/channel/GuatusoTV.cr?width=50" tvg-id="GuatusoTV.cr" group-title="Costa Rica",Guatuso TV (720p)
+https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1048_TicaVision.png" tvg-id="HBTVTicaVision.cr" group-title="Costa Rica",HBTV TicaVisión (1080p) 
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1258_Limon_TV.png" tvg-id="LimonTV.cr" group-title="Costa Rica",Limón TV (1080p) [Not 24/7] 
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lossantostv.com/chat/static/img/logo.png" tvg-id="LosSantosTV.cr" group-title="Costa Rica",Los Santos TV (720p) 
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+#EXTINF:-1 tvg-logo="https://www.luznacientetv.com/gallery_gen/0b6120300d383e9eff5f6256ce194bbc_854x854_fit.png?ts=1709051991" tvg-id="LuzNacienteTV.cr" group-title="Costa Rica",Luz Naciente TV (720p) 
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:-1 tvg-logo="https://metaversuscr.com/wp-content/uploads/2023/08/cropped-MET.png" tvg-id="MetaVersusCR.cr" group-title="Costa Rica",MetaVersus CR (480p) 
+https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/40ac5254789f3c5da9f33dced9cfad859b79400fce2dc23d8527fc36f41cf571.png" tvg-id="MultizonasTV.cr" group-title="Costa Rica",Multizonas TV (720p) 
+https://cloudvideo.servers10.com:8081/8068/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1047_Nicoya_TV.png" tvg-id="NicoyaTV.cr"group-title="Costa Rica" ,Nicoya TV (720p) [Not 24/7] 
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1260_Norte_Informativo.png" tvg-id="NorteInformativoTV.cr" group-title="Costa Rica",Norte Informativo TV (240p) 
+https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1244_Oldies_Hits_TV.png" tvg-id="OldiesHits.cr" group-title="Costa Rica",Oldies Hits (360p) 
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/479_Retro_TV_Palmares.png" tvg-id="RetroTVPalmares.cr" group-title="Costa Rica",Retro TV Palmarés (360p) [Not 24/7] 
+https://250weu.bozztv.com/ssh101/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1083_San_Vito_TV.png" tvg-id="SanVitoTelevision.cr" group-title="Costa Rica",San Vito Televisión (720p) 
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://artv.watch/cdn/channel/SarapiquiTV.cr?width=50" tvg-id="SarapiquiTV.cr" group-title="Costa Rica",Sarapiqui TV (720p) [Not 24/7] 
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://artv.watch/cdn/channel/SarapiquiTV.cr?width=50" tvg-id="SarapiquiTV.cr" group-title="Costa Rica",Sarapiqui2 TV (720p) [Not 24/7]
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1064_Soy_Plancha_TV.png" tvg-id="SOYPlanchaTV.cr" group-title="Costa Rica",SOY Plancha TV (720p) 
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://artv.watch/cdn/channel/TDtv.cr?width=50" tvg-id="TDtv.cr" group-title="Costa Rica",TDtv (720p) 
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1049_Teleuno.png" tvg-id="TeleUno.cr" group-title="Costa Rica",Tele Uno (720p) [Not 24/7] https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://artv.watch/cdn/channel/TeleBrunca.cr?width=50" tvg-id="TeleBrunca.cr" group-title="Costa Rica",TeleBrunca (720p) [Not 24/7] 
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/478_Telesistema.png" tvg-id="Telesistema.cr" group-title="Costa Rica",Telesistema (480p) [Not 24/7] 
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1257_TV_Curre.png" tvg-id="TVCurre.cr" group-title="Costa Rica",TV Curré (720p) [Not 24/7] 
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1052_TV_Sur_Canal_9.png" tvg-id="TVSurCanal9.cr" group-title="Costa Rica",TV Sur Canal 9 (480p) [Not 24/7] 
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1051_Tv_Sur_Canal_14.png" tvg-id="TVSurCanal14.cr" group-title="Costa Rica",TV Sur Canal 14 (720p) 
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1245_Canal_TV_Plus.png" tvg-id="TVPlus.cr" group-title="Costa Rica",TV+ Canal 54 (480p) 
+https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/22_Video_Tour_Channel.png"  tvg-id="VideoTourChannel.cr" group-title="Costa Rica",Video Tour Channel (480p) [Not 24/7]
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1063_Vintage_Music.png" tvg-id="VintageMusic.cr"group-title="Costa Rica" ,Vintage Music (720p) 
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1062_Canal_VM_Latino.png" tvg-id="VMLatino.cr" group-title="Costa Rica",VM Latino (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1291_Voice_Over_Radio_TV.png" tvg-id="VoiceOverRadioTV.cr" group-title="Costa Rica",VoiceOver Radio TV (720p) 
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1 tvg-logo="https://xpressojovenradiocr.com/sitepad-data/uploads/2023/01/Xpreso-Joven-Radio-logo_Mesa-de-trabajo-1-copia-5.png" tvg-id="XpressoJovenRadio.cr" group-title="Costa Rica",Xpresso Joven Radio (720p) 
+https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/VsI1ru0ma1ajqXi6hOfeBnKVd1AZAVLkndEiWhYp.png" tvg-id="ZurquiTV.cr" group-title="Costa Rica",Zurquí TV (720p) 
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Fg8XXH5P1j0a2RjpkWFmaAR4X50xrRKVrQ4O5LFM.png" tvg-id="IQChannel.cr" group-title="Costa Rica",IQ Channel https://rtmp.info/iqtv/envivo/chunklist_w1640663658.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/AItHlsJudOqiXaXiyVRgFq6kqLPZ6v8x7EY06xyG.png" tvg-id="UrbanoTV.cr" group-title="Costa Rica",Urbano TV
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/chunklist_w431412632.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yZYQ4nMNStBU5vRuIwzocx9tCTulI5nszxIcQH5J7nHBGBbbZV6lL3Mdai52gEFY_WNGKPC9=s176-c-k-c0x00ffffff-no-rj" tvg-id="RadioPuertoTV.cr" group-title="Costa Rica",Radio Puerto TV
+https://cloudvideo.servers10.com:8081/8256/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/8TWVCDT9YidBWqGrA57k3PFXcbTWWODSHEj06L3I.png" tvg-id="MeganetTV.cr" group-title="Costa Rica",Meganet TV
+https://video20.klm99.com:3401/live/megahitslive.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOfihUovmi0rtlE3_YGLIzArNdyM8Hsm7B6qmegz7XCBwOhPTEIUnto_28g&s" tvg-id="RTVChirrigo.cr" group-title="Costa Rica",RTV Chirripo
+https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
+#EXTINF:-1 tvg-logo="https://sinartdigital.com/images/miscelaneo/senales/canal_13_.png" tvg-id="13CostaRicaTV.cr" group-title="Costa Rica",13 Costa Rica TV
+https://250weu.bozztv.com/ssh101/ssh101/sinart13/chunks.m3u8?nimblesessionid=168372398
+#EXTINF:-1 tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc_2.png" tvg-id="TVSantaCruz.cr" group-title="Costa Rica",TV Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ8IuHUgpOZTx2wXuWiUl6Ng8LfgBvZQtPAHa7TX9xLRrLIDgA6x4daS0KGg&s" tvg-id="Trivision36.cr" group-title="Costa Rica",Trivision 36
+https://rtmp.info/trivision36/envivo/chunklist_w658380199.m3u8
+#EXTINF:-1 tvg-logo="https://www.retroxtv.com/diminup/2024/01/RTX-FTE-300x300.png" tvg-id="RetroxTV.cr" group-title="Costa Rica",Retrox TV
+https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/5LVxsUeJoEk6qIyAct4JcpyiroUt3twaF6h7udsB.png" tvg-id="CaribeTVCRTV.cr" group-title="Costa Rica",Caribe TV CR
+https://250weu.bozztv.com/ssh101/ssh101/sinart/chunks.m3u8?nimblesessionid=168375981
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Fg8XXH5P1j0a2RjpkWFmaAR4X50xrRKVrQ4O5LFM.png" tvg-id="IQChannel.cr" group-title="Costa Rica",IQ Channel
+https://rtmp.info/iqtv/envivo/chunklist_w1212842158.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/jIoSSHHLjz5uIbR8D3aQ3vtite6e4AUjdXwXAL5X.png" tvg-id="MasCiclismoTV.cr" group-title="Sports",Mas Ciclismo TV
+https://video20.klm99.com:3880/live/megadeporteslive.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/1yeVCQoEYPNMrJVCeegIi3nyrstnkYnymfvL0ZSY.jpg" tvg-id="ColosalCabina.cr" group-title="Costa Rica",Colosal Cabina
+https://5d16127744872.streamlock.net/canal3/canal3/chunklist_w357851300.m3u8
+#EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/IVsndRtX6zoeghtzY1OL5DNMEbbw4CaA35yFVGbS.png" tvg-id="SuperRadioTV.cr" group-title="Costa Rica",Super Radio TV
+https://video20.klm99.com:3732/live/superradiotvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="AgendaAlDiaTV.co" group-title="Colombia",Agenda Al Día TV (720p) 
+https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/112_Amordiscos_TV.png" tvg-id="Amordiscos.co" group-title="Colombia",Amordiscos (540p) 
+https://canal.mediaserver.com.co/live/canalamordiscos.m3u8
+#EXTINF:-1 tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png" tvg-id="ATNTelevision.co" group-title="Colombia",ATN Televisión (640p)  
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="ATV.co" group-title="Colombia",ATV (360p) [Not 24/7]
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="ATV.co" group-title="Colombia",ATV2 (360p) [Not 24/7] 
+https://video.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="AzufralCanalRegional.co" group-title="Colombia",Azufral Canal Regional (720p) [Not 24/7] 
+https://tvlatina.live:1936/8020/8020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="BluRadio.co" group-title="Colombia",Blu Radio (1080p) [Not 24/7] 
+https://ythls.armelin.one/channel/UCUYokk2dJxFZf7NgxTL-ROg.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CableSurTV.co" group-title="Colombia",Cable Sur TV (720p)  
+https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Cablenoticias.co" group-title="Colombia",Cablenoticias (1080p) 
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/113_Cali_TV.jpg" tvg-id="CaliTV.co" group-title="Colombia",Cali TV (540p) [Not 24/7] 
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/113_Cali_TV.jpg" tvg-id="CaliTV.co" group-title="Colombia",Cali TV2 (540p) [Not 24/7] 
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="Cali TV3" tvg-logo="https://cdn.m3u.cl/logo/113_Cali_TV.jpg" group-title="Colombia", Cali TV3 | CO
+http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CampoTelevision.co" group-title="Colombia",Campo Televisión (720p)  
+https://video17.virtualtronics.com/streamer/canalcampotv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Canal2Alpavision.co" group-title="Colombia",Canal 2 Alpavisión (720p) [Not 24/7] 
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Canal2.co" group-title="Colombia",Canal 2 Cali (720p)  
+https://video13.virtualtronics.com/streamer/canal2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Canal55TelemoriscoTV.co" group-title="Colombia",Canal 55 Telemorisco TV (720p) 
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Canal8TVPlus.co" group-title="Colombia",Canal 8 TV+ (720p) 
+https://movil.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Canal8TVPlus.co" group-title="Colombia",Canal 8 TV+2 (720p)  
+https://video.ejeserver.com/live/canal8tv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Canal9.co" group-title="Colombia",Canal 9 Cosespu (720p)  
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/115_Canal_Capital.png" tvg-id="CanalCapital.co" group-title="Colombia",Canal Capital (1080p) 
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/120_Canal_Institucional.png" tvg-id="CanalInstitucional.co" group-title="Colombia",Canal Institucional (720p) [Not 24/7] 
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalMasTelevision.co" group-title="Colombia",Canal Más Televisión (720p) 
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalMasTelevision.co" group-title="Colombia",Canal Más Televisión2 (720p) 
+https://video.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalMundoVision.co" group-title="Colombia",Canal Mundo Visión (720p)  
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalMundoVision.co" group-title="Colombia",Canal Mundo Visión2 (720p)  
+https://video.ejeserver.com/live/mundovisiontv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalNets.co" group-title="Colombia",Canal Nets (720p) [Not 24/7] 
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalNets.co" group-title="Colombia",Canal Nets2 (720p) [Not 24/7]  
+https://video.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalRegionalFTV.co" group-title="Colombia",Canal Regional FTV (720p)  
+https://tvlatina.live:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalSantaMartaTV.co" group-title="Colombia",Canal Santa Marta TV (720p) [Not 24/7]  
+https://videosenlared.fullstreaming.ar:3046/live/yevothnflive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalTelePalmar.co" group-title="Colombia",Canal TelePalmar (480p) 
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/121_Canal_TRO.png" tvg-id="CanalTRO.co" group-title="Colombia",Canal TRO (1080p)
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CanalVIP.co" group-title="Colombia",Canal VIP (1080p)  
+https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/122_Canal_Vision_Dorada.jpg" tvg-id="CanalVisionDorada.co" group-title="Colombia",Canal Visión Dorada (720p) [Not 24/7]  
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/122_Canal_Vision_Dorada.jpg" tvg-id="CanalVisionDorada.co" group-title="Colombia",Canal Visión Dorada2 (720p) [Not 24/7]  
+https://video.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CarareTV.co" group-title="Colombia",Carare TV (1080p) [Not 24/7] 
+https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CitytvBogota.co" group-title="Colombia",Citytv Bogotá (1080p) [Not 24/7]  
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CiudadelaTV.co" group-title="Colombia",CiudadelaTV (614p) [Not 24/7]  
+https://cp.panelchs.com:1936/8096/8096/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/116_Canal_CNC_Medellin.jpg" tvg-id="CNCMedellin.co" group-title="Colombia",CNC Medellín (720p)  
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CNCMonteria.co" group-title="Colombia",CNC Montería (720p)  
+https://stmv4.voxtvhd.com.br/cncmonteria/cncmonteria/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CNCSantanderdeQuilichao.co" group-title="Colombia",CNC Santander de Quilichao (480p) 
+https://movil.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CNCSantanderdeQuilichao.co" group-title="Colombia",CNC Santander de Quilichao2 (480p) 
+https://video.ejeserver.com/live/cncsantander.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="CNCTulua.co" group-title="Colombia",CNC Tuluá (720p)  
+https://servers.amelbasoluciones.co:19360/cnctulualive/cnctulualive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/125_Cosmovision.jpg" tvg-id="Cosmovision.co" group-title="Colombia",Cosmovision (720p)  
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/126_CTV.jpg" tvg-id="CTV.co" group-title="Colombia",CTV Barranquilla (1080p)
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Eduvision.co" group-title="Colombia",Eduvision (1080p)  
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png" tvg-id="FamiliChannel.co" group-title="Colombia",Famili Channel (720p)  
+https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="FrecuenciaFTV.co" group-title="Colombia",Frecuencia F TV (1080p) 
+https://tv.frecuenciaf.com/live/envivo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="FullMusica.co" group-title="Colombia",Full Música (720p)  
+https://eu1.servers10.com:8081/8060/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="HuellasTV.co" group-title="Colombia",Huellas.TV (1080p)  
+https://cp.panelchs.com:1936/8170/8170/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="HuilaTV.co" group-title="Colombia",Huila TV (720p)  
+https://plataformavideo.com:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="INPOTV.co" group-title="Colombia",INPO TV (720p)  
+https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="LaHermandadSalsera.co" group-title="Colombia",La Hermandad Salsera (1080p) [Not 24/7]  
+https://streamlov.alsolnet.com/hermandadsalsera/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="MasMusicaFM.co" group-title="Colombia",MasMusica FM (720p)  
+https://movil.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="MasMusicaFM.co" group-title="Colombia",MasMusica FM2 (720p)  
+https://video.ejeserver.com/live/masmusica.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/141_Melody_Channel_TV.jpg" tvg-id="MelodyChannel.co" group-title="Colombia",Melody Channel Colombia (540p)  
+https://canal.mediaserver.com.co/live/MelodyChannel.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/471_Memorias_TV.png" tvg-id="MemoriasTV.co" group-title="Colombia",Memorias TV (480p) 
+https://rpn3.bozztv.com/ssh101/ssh101/musica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="MoniTV.co" group-title="Colombia",MoniTV (720p) [Not 24/7]  
+https://servers.amelbasoluciones.co:19360/monitvlive/monitvlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="MovieFe.co" group-title="Colombia",MovieFe (720p) [Not 24/7]  
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="MulticanalTelevision.co" group-title="Colombia",Multicanal Televisión (720p)  
+https://ssh101.bozztv.com/ssh101/KIOCApP/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1090_Noticiero_90_Minutos.png" tvg-id="Noticiero90Minutos.co" group-title="Colombia",Noticiero 90 Minutos (720p) [Not 24/7] 
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="NSTV.co" group-title="Colombia",NSTV (1080p) 
+https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="OndambientalTV.co" group-title="Colombia",Ondambiental TV (360p)  
+https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="PSCTelevision.co" group-title="Colombia",PSC Televisión (720p)  
+https://stmv4.voxtvhd.com.br/psctv/psctv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="RCNXtra.co" group-title="Colombia",RCN Xtra (1080p)  
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="RDMTelevision.co" group-title="Colombia",RDM Televisión (720p) [Not 24/7]  
+https://cp.panelchs.com:1936/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="RedPlus.co" group-title="Colombia",Red+ (1080p)  
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Reyali.co" group-title="Colombia",Reyali (614p)  
+https://eu1.servers10.com:8081/8090/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1557_Salsagorda_Television.png" tvg-id="SalsaGordaTelevision.co" group-title="Colombia",Salsa Gorda Television (720p)  
+https://tgn.bozztv.com/ssh101/ssh101/qMUAZEy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/128_Senal_Colombia.png" tvg-id="SenalColombia.co" group-title="Colombia",Señal Colombia (1080p)  
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/129_Suram.jpg" tvg-id="SuramTV.co" group-title="Colombia",Suram TV (1080p) https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TamesisTeVe.co" group-title="Colombia",Támesis TeVe (614p) [Not 24/7] 
+https://tvlatina.live:1936/8018/8018/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/130_TDI.jpg" tvg-id="TDIColombia.co" group-title="Colombia",TDI Colombia (720p) [Not 24/7]  
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TeleAmiga.co" group-title="Colombia",Tele Amiga (480p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TeleSanJacinto.co" group-title="Colombia",Tele San Jacinto (720p)  
+https://movil.ejeserver.com/live/telesanjacinto.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TeleSanJacinto.co" group-title="Colombia",Tele San Jacinto2 (720p) 
+https://video.ejeserver.com/live/telesanjacinto.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Televilla.co" group-title="Colombia",Televilla (720p) [Not 24/7]  
+https://cp.panelchs.com:1936/8060/8060/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Teleantioquia.co" group-title="Colombia",Teleantioquia (1080p) 
+https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Teleantioquia.co" group-title="Colombia",Teleantioquia (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Teleantioquia.co" group-title="Colombia",Teleantioquia (720p)
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:live.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Telecaribe.co" group-title="Colombia",Telecaribe (720p)
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TelecaribePlus.co" group-title="Colombia",Telecaribe Plus (720p)
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TeleCimitarra.co" group-title="Colombia",TeleCimitarra (720p) 
+https://cp.panelchs.com:1936/8094/8094/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/137_Tele_Islas.jpg" tvg-id="Teleislas.co" group-title="Colombia",Teleislas (486p) [Not 24/7]  
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/136_Telemedellin.png" tvg-id="Telemedellin.co" group-title="Colombia",Telemedellín (720p)  
+https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/36_Telemusica.png" tvg-id="TelemusicaTV.co" group-title="Colombia",Telemúsica TV (540p)
+https://canal.mediaserver.com.co/live/telemusica.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/135_Telepacifico.png" tvg-id="Telepacifico.co" group-title="Colombia",Telepacífico (1080p) [Not 24/7] 
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="Telesangil.co" group-title="Colombia",Telesangil (720p) [Not 24/7]  
+https://hvtraficonew.ddns.net/tvsangil/tvsangil/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TuKanal.co" group-title="Colombia",Tu Kanal (1080p)  
+http://45.33.63.98/hls/abdi.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TuUniversoTV.co" group-title="Colombia",Tu Universo TV (720p)  
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TVIpiales.co" group-title="Colombia",TV Ipiales (1080p)  
+https://movil.ejeserver.com/live/tvipiales.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TVIpiales.co" group-title="Colombia",TV Ipiales2 (1080p) 
+https://video.ejeserver.com/live/tvipiales.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/860_TV_Penol.png" tvg-id="TVPenol.co" group-title="Colombia",TV Peñol (720p) 
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TVSanJorge.co" group-title="Colombia",TV San Jorge (1080p) [Not 24/7]  
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="TVNGlobal.co" group-title="Colombia",TVN Global (720p)  
+https://tvlatina.live:1936/8006/8006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1157_Veo_TV.png" tvg-id="VeoTelevision.co" group-title="Colombia",Veo Televisión (720p) [Not 24/7]  
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.icon-icons.com/icons2/97/PNG/256/colombia_flags_flag_16986.png" tvg-id="ViveTV.co"group-title="Colombia",Vive TV Colombia (1080p)  
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-id="1545" tvg-name="Estacion Retro" tvg-logo="https://cdn.m3u.cl/logo/1545_Estacion_Retro.png" group-title="Colombia", Estacion Retro ✪ | CO
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="126" tvg-name="CTV" tvg-logo="https://cdn.m3u.cl/logo/126_CTV.jpg" group-title="Colombia", CTV | CO
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://cdn.m3u.cl/logo/187_Tele_Familia.png" group-title="Colombia", Tele Familia | CO
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png" group-title="Music", Recuerdos Retro Radio TV | CL
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Music", Retro Plus TV | CL
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png"group-title="Music", Retro Plus TV Señal 2 | CL
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png"group-title="Music", Mundo de la Musica TV | CL
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
