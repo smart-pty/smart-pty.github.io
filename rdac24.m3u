@@ -4,25 +4,25 @@ http://190.149.66.90:4000/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XcrkfGh.png" tvg-id="TVMAX - PAN" group-title="PTY", TV Max - PAN
 http://190.149.66.90:4000/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vJJrGgV.png" tvg-id="Telemetro - PAN" tvg-shift="-4"  group-title="PTY",Telemetro - PAN
-https://live-b2.cf.dmcdn.net/sec2(l1mK7V0C0SgcwGN9t6M4bs9ai5BFD2qobhmNE0N6pG_Rrc3dcGGHP1dy88xLh_tWbnintmJ1r10xgt68Q2QM6sBa2tLFXwvv3SSARjvy5iU)/cloud/3/x8nlwwo/s/live-1.m3u8
+https://live-c2.cf.dmcdn.net/sec2(wkANzhjwHQqBgjJy8Dilf1NeRqxHN30RR_fqFmdWWTCLBM2p_X1L7fibOVztatC9A2ustMAa8DhVJISwe1ywj7PGKF9utFHQmVLV8OCCWI8)/cloud/3/x8nlwwo/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGeHwxd.png" tvg-id="TVN - PAN" tvg-shift="-4"  group-title="PTY", TVN - PAN
 https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DzYPhdZ.png" tvg-id="RPC TV - PAN" tvg-shift="-4"  group-title="PTY", RPC TV - PAN
 http://190.149.66.90:4000/play/a044/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8JnPQ1K.png" group-title="PTY", OYE TV - PAN
-https://live-b2.cf.dmcdn.net/sec2(1fJVDnozCrPzFhYvjZ69F0XrywP7Z90LUTPbb_hacNk3bSbofxf9U_G3_3k5JI0WoSwHKyPwMjqBJuq6Niba8ZiEE3n5xP13a5pMLEfL2I4)/cloud/3/x8odgha/s/live-1.m3u8
+https://live-c2.cf.dmcdn.net/sec2(foztiEsLGxp2nCWbWJvA43FnRc8-RPpoPLOACL5v7QsyCzuSJRiFnG9_TG1QTBOYzyVveA_Bwm-2C8DqNQYtHxql1-HiypZnTWsyacH-aBQ)/cloud/3/x8odgha/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0h8dlX.png" tvg-id="Mas23 - PAN" tvg-shift="-4"  group-title="PTY", Mas23 - PAN
 https://vcp4.myplaytv.com:1936/mas23/mas23/chunklist_w1556550888.m3u8
 #EXTINF:-1 tvg-logo="https://sertv.gob.pa/wp-content/uploads/2020/05/2020-sertv-logo-sticky.png" tvg-id="SerTV - PAN" tvg-shift="-4"  group-title="PTY", SerTV - PAN
-https://live-b.cf.dmcdn.net/sec2(xpt9xktHksFC-vVX9l_nArSsnQjMNzR1HA3zFq4OBuqtajMjsl4tToH9OhpE1u5pejdZcVKlGmkBR0wpVtOtCW11siWrnMyxhv5BjUbS5ps)/dm/3/x81cvsk/s/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(c5oA-J2yPj3PqUd1ckgfRld9V8jiKwyzLVKM6fR4MXmQViGjhZrOJCvylU0SGj5Yzf10J29llAKk7dWWkB23PFgCrNbSlkbzFfjW3sriRh0)/dm/3/x81cvsk/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/97wSTWDrQ20XDx0h9gDs7Ref3aaFV0h3Hpr7TU0m.png" tvg-id="BTV - PAN" tvg-shift="-4" group-title="PTY", BTV - PAN
 https://stream.oursnetworktv.com/latin/btvpanama/chunklist_w1266770779.m3u8
 #EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/4b9f-07b4-9a57-46e4/2/logoHover.jpg" tvg-id="Telemetro Radio - PAN" tvg-shift="-4"  group-title="PTY", Telemetro Radio - PAN
-https://live-c2.cf.dmcdn.net/sec2(uZ6sfrOwl-k1CZVLBoGrj-LzxSyMKulJZ9bjIYyjYQGZOHh20OMfKBdTk2iT7JrGQpeEHvA4Efl19i9FVATmHJXFP5g5yYoWfd6yme4CU0M)/cloud/3/x8oe642/s/live-0.m3u8
+https://live-b2.cf.dmcdn.net/sec2(LDTg4kYybEyEeMCpGPglH0k56ltkbHfTbIKZfcLNXKWGF4d3m2HHTVz63EGUr3Ef9BlB6v9tkkLA9jRCpOxl6tUgeQ1ibQJ6OqXUq1jF_7E)/cloud/3/x8oe642/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/b3f8-b568-af70-467c/2/logoHover.jpg" tvg-id="RPC Radio - PAN" tvg-shift="-4"  group-title="PTY", RPC Radio - PAN
-https://live-c2.cf.dmcdn.net/sec2(WF0RN-bBwQETCrDHuulPoPolT8a4Vt9sG-96zQOgkxzt-QzNA4Rv9tOlb3ixLgmXGDD-C00DoLHJ5_HboamN6UnHqM3Y4froDPjOjgcEP4A)/cloud/3/x8oe65h/s/live-0.m3u8
+https://live-c2.cf.dmcdn.net/sec2(oxpqQ4eSbu-GfQeYBgyVOjSFqa15y0Fb4Cxvnt_c__wJdx2xZVo4y1wk4iV0nt1LWcfC_d861gyeYn2jfcrlKHWs6u_byp2X8261SvIqLwY)/cloud/3/x8oe65h/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://media.fast.thinkindot.com/media/3/channel/c1f6-f971-d895-4540/2/logoHover.jpg" tvg-id="Caliente Radio - PAN" tvg-shift="-4"  group-title="PTY", Caliente Radio - PAN
-https://live-c2.cf.dmcdn.net/sec2(gmjN-D1u2f1bNRI1aEbdobOzQ6rEVagE90B1VahoJ7Zn9mbj-pZnj9frWIcuw9jckqSz1YOJDsjr6avu_9VTqIffc70VfJB6tTigklaAokw)/cloud/3/x8oe65z/s/live-2.m3u8
+https://live-b2.cf.dmcdn.net/sec2(ZGe-P2Aj_dN6he5XiM-SShc8NEw0CepBT3OkTuretTJOrwHbzuh-3Wn_7J8JRHjXyLSfHJpEh2hzHopVPnd1B4qsElX0NlZnQCukwwnUvMY)/cloud/3/x8oe65z/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634660075655.png" tvg-id="Fabulosa Stereo - PAN" tvg-shift="-4"  group-title="PTY", Fabulosa Stereo - PAN
 https://www.streaming507.net:19360/videofabulosa/480p.m3u8
 #EXTINF:-1 tvg-logo="https://img.streann.com/streann-img/upload2/1634763785376.png" tvg-id="TropiQ - PAN" tvg-shift="-4"  group-title="PTY", TropiQ - PAN
@@ -598,7 +598,7 @@ https://stream.trixserver.com:3088/live/uv096live.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="http://orbittv.net/images/orbit_logo4.png" tvg-id="OrbitTV" group-title="Movies",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1273800666.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" tvg-id="RunTime" group-title="Movies",Run Time
-https://stream.ads.ottera.tv/cl/240324co0bl3e934nmqppv63og/1280x720_3071200_0_f.m3u8?i=728_2550
+https://stream.ads.ottera.tv/cl/240403co6blle934nh3df9fp50/1280x720_3071200_0_f.m3u8?i=728_2550
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/925_Nubeh_TV.png" tvg-id="NubehTV" group-title="Music",Nubeh TV
 https://vcp.myplaytv.com/nubehtv/nubehtv/chunklist_w1963751343.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1271_MMC___Freetv_com.png" tvg-id="FreeTV" group-title="Music",Free TV
